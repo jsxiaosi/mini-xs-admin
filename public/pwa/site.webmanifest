@@ -1,6 +1,6 @@
 {
-    "name": "vue-xs-admin",
-    "short_name": "vue-xs-admin",
+    "name": "mini-xs-admin",
+    "short_name": "mini-xs-admin",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
