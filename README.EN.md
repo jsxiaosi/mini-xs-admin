@@ -12,8 +12,8 @@ The out of the box background template developed based on mainstream technologie
 
 ## Preview address
 
-- [github site](https://jsxiaosi.github.io/vue-xs-admin/)
-- [gitee site](http://jsxiaosi.gitee.io/vue-xs-admin)
+- [github site](https://jsxiaosi.github.io/mini-xs-admin/)
+- [gitee site](http://jsxiaosi.gitee.io/mini-xs-admin)
 
 Account: admin  
 Password: admin123
