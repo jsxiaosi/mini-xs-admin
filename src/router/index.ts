@@ -4,7 +4,7 @@ import { usePermissionStoreHook } from '@/store/modules/permission';
 import { useUserInfoStoreHook } from '@/store/modules/user';
 import NProgress from '@/utils/plugin/progress';
 import { _storage, isUrl } from '@jsxiaosi/utils';
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import type { App } from 'vue';
 import type { RouteRecordRaw } from 'vue-router';
 import { configRouteList } from './modules';
@@ -16,7 +16,7 @@ const { whiteRouteModulesList, routeModulesList } = configRouteList();
 export const sidebarRouteList = routeModulesList;
 
 export const router = createRouter({
-  history: createWebHistory(''),
+  history: createWebHashHistory(''),
   routes: whiteRouteModulesList as unknown as RouteRecordRaw[],
 });
 
