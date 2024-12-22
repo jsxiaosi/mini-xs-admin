@@ -12,8 +12,8 @@
 
 ## 预览地址
 
-- [github 站点](https://jsxiaosi.github.io/vue-xs-admin/)
-- [gitee 站点](https://jsxiaosi.gitee.io/vue-xs-admin)
+- [github 站点](https://jsxiaosi.github.io/mini-xs-admin/)
+- [gitee 站点](https://jsxiaosi.gitee.io/mini-xs-admin)
 
 账号：admin  
 密码：admin123
